@@ -3,7 +3,7 @@ Basic Python web framework
 
 
 ---
-App develops step by step:
+App development steps:
 
 ```
   1. Hello World (single app file)
