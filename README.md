@@ -9,7 +9,7 @@ Basic Python web framework.
   1. Hello World (single app file).
   2. Templates (app with base and index html files).
   3. Flask with CSS.
-  4. Database implimintation with flask_sqlalchemy, and add/delete/update commands.
+  4. Database implementation with flask_sqlalchemy, and add/delete/update commands.
 ```
 
 ---
