@@ -10,7 +10,6 @@ Basic Python web framework
   2. Templates (app with base and index html files).
   3. Flask with CSS.
   4. Database implimintation with flask_sqlalchemy, and add/delete/update commands.
-
 ```
 
 ---
