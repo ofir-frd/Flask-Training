@@ -1,5 +1,5 @@
 # Flask-Training
-Basic Python web framework
+Basic Python web framework.
 
 
 ---
