@@ -16,6 +16,8 @@ Basic Python web framework.
 
 ### Acknowledgments:
 
+freeCodeCamp.org
+
 YouTube guide: https://www.youtube.com/watch?v=Z1RJmh_OqeA
 
 Resources: https://github.com/jakerieger/FlaskIntroduction
